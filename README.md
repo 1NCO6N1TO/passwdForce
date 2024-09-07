@@ -1,6 +1,4 @@
----
-
-# 🔐 Script de Ataque de Fuerza Bruta con `su` y Barra de Progreso
+# 🔐 Script de Ataque de Fuerza Bruta con `su`
 
 Este script de Bash te permite realizar un ataque de fuerza bruta probando una lista de contraseñas contra un usuario específico utilizando el comando `su`. Es ideal para automatizar pruebas de acceso en sistemas, mostrando una barra de progreso visual y mensajes en colores para una mejor experiencia.
 
@@ -39,11 +37,11 @@ Este script de Bash te permite realizar un ataque de fuerza bruta probando una l
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
 
----
+
 
 ### Autor: [1NCO6N1TO](https://github.com/1NCO6N1TO)
 
----
+
 
 ## 🛡️ Ejemplo de Ejecución
 
@@ -57,4 +55,4 @@ Este proyecto está bajo la [Licencia MIT](LICENSE).
 [+] La contraseña es: password123
 ```
 
----
+
