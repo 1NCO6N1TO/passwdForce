@@ -33,16 +33,6 @@ Este script de Bash te permite realizar un ataque de fuerza bruta probando una l
 - Si se encuentra la contraseña correcta, la muestra en verde.
 - Si no se encuentra ninguna contraseña válida, muestra un mensaje de error en rojo.
 
-## 📋 Licencia
-
-Este proyecto está bajo la [Licencia MIT](LICENSE).
-
-
-
-### Autor: [1NCO6N1TO](https://github.com/1NCO6N1TO)
-
-
-
 ## 🛡️ Ejemplo de Ejecución
 
 ```bash
@@ -54,5 +44,11 @@ Este proyecto está bajo la [Licencia MIT](LICENSE).
 [*] Probando Contraseña: password123
 [+] La contraseña es: password123
 ```
+## 📋 Licencia
 
+Este proyecto está bajo la [Licencia MIT](LICENSE).
+
+
+
+### Autor: [1NCO6N1TO](https://github.com/1NCO6N1TO)
 
